@@ -1,6 +1,6 @@
 ATTENTION! If you would like to submit an EIP and it has already been written as a draft (see the [template](https://github.com/ethereum/EIPs/blob/master/eip-template.md) for an example), please submit it as a [Pull Request](https://github.com/ethereum/EIPs/pulls).
 
-If you are considering a proposal but would like to get some feedback on the idea before submitting a draft, then continue opening an Issue as a thread for discussion.  Note that the more clearly and completely you state your idea the higher the quality of the feedback you are likely to receive.
+If you are considering a proposal but would like to get some feedback on the idea before submitting a draft, then continue opening an Issue as a thread for discussion. Note that the more clearly and completely you state your idea the higher the quality of the feedback you are likely to receive.
 
 Keep in mind the following guidelines from [EIP-1](https://eips.ethereum.org/EIPS/eip-1):
 
@@ -9,3 +9,16 @@ Keep in mind the following guidelines from [EIP-1](https://eips.ethereum.org/EIP
 > Vetting an idea publicly before going as far as writing an EIP is meant to save the potential author time. Asking the Ethereum community first if an idea is original helps prevent too much time being spent on something that is guaranteed to be rejected based on prior discussions (searching the Internet does not always do the trick). It also helps to make sure the idea is applicable to the entire community and not just the author. Just because an idea sounds good to the author does not mean it will work for most people in most areas where Ethereum is used.
 
 > Once the champion has asked the Ethereum community as to whether an idea has any chance of acceptance, a draft EIP should be presented as a Pull Request. This gives the author a chance to flesh out the draft EIP to properly format it, ensure it is high quality, and address initial concerns about the proposal.
+
+## Consistency in Style and Terminology
+
+To ensure consistency in style and terminology throughout the documentation, please follow these guidelines:
+
+* Use the same terminology and phrasing as found in existing documentation.
+* Maintain a consistent tone and style in your writing.
+* Use proper formatting for headings, subheadings, and bullet points.
+* Ensure that all links and references are accurate and up-to-date.
+
+## Continuous Improvement
+
+We encourage feedback and continuous improvement of the documentation. If you have any suggestions or notice any issues, please open an issue or submit a pull request with your proposed changes.

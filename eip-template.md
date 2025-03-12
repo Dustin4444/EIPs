@@ -115,6 +115,30 @@ No backward compatibility issues found.
 
 Needs discussion.
 
+## Examples and Visuals
+
+### Example 1: Simple Smart Contract
+
+```solidity
+pragma solidity ^0.8.0;
+
+contract SimpleStorage {
+    uint256 public storedData;
+
+    function set(uint256 x) public {
+        storedData = x;
+    }
+
+    function get() public view returns (uint256) {
+        return storedData;
+    }
+}
+```
+
+### Example 2: Visual Representation of a Transaction
+
+![Transaction Flow](../assets/eip-template/transaction-flow.png)
+
 ## Copyright
 
 Copyright and related rights waived via [CC0](../LICENSE.md).
